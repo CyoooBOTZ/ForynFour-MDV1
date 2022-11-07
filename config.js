@@ -22,7 +22,7 @@ global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, lin
 global.saweria = 'https://saweria.co/Kricom'
 
 // PAYMANT 
-global.dana = '081360482998'
+global.dana = '089666747744'
 global.pulsa = '081360482998'
 global.gopay = '081360482998'
 global.shopay = '081360482998'
@@ -54,10 +54,10 @@ global.fsizedoc = '99999999999999' // default 10TB
 global.fpagedoc = '999'
 
 // WATERMARK  
-global.wm = 'ᬊᬁ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑'
+global.wm = 'ᬊᬁ Cyoo 𝐅𝐎𝐔𝐑'
 global.watermark = wm
-global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 𝙆𝙧𝙞𝙯𝙮𝙣𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 PraszzXD𝙊𝙛𝙘'
+global.wm3 = '⫹⫺ Cyoo 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
@@ -87,6 +87,7 @@ global.admen = `┏═┅〔 *SUPPORT* 〕┅═✦
 ┃⫹⫺ Jarot
 ┃⫹⫺ Kanna
 ┃⫹⫺ Fokusid
+┃⫹⫺ PraszzXD
 ┃
 ┗━━══┅┅══━━━✦`
         
